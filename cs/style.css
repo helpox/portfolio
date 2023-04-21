@@ -583,14 +583,12 @@
         font-size: 2.5rem;
     }
        /* Contect */
-       .content {
-           
-           position: static;
-           top: unset;
-           left: unset;
-           transform: unset;
-           text-align: center;
-       }
+      .content {
+    position: absolute;
+     left: unset; 
+     transform: unset; 
+    text-align: center;
+}
 
        .mailform form {
            width: 100%;
