@@ -588,6 +588,7 @@
      left: unset; 
      transform: unset; 
     text-align: center;
+         width:100%;
 }
 
        .mailform form {
