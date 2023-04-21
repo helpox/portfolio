@@ -584,11 +584,12 @@
     }
        /* Contect */
        .content {
-           text-align: center;
+           
            position: static;
            top: unset;
            left: unset;
            transform: unset;
+           text-align: center;
        }
 
        .mailform form {
